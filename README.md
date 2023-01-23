@@ -1,2 +1,2 @@
 # Responsive-Design-Agency
-# Resposnive Website built with CSS and Javascript
+Resposnive Website built with CSS and Javascript
